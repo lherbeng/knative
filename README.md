@@ -1,4 +1,4 @@
-Getting started - Knative is an Open-Source Enterprise-level solution to build Serverless and Event Driven Applications
+Getting started - Knative is a solution to build Serverless and Event Driven Applications
 
 Please also take a look at the [Serving Architecture](https://knative.dev/docs/serving/architecture/), which explains the Knative components and the general networking concept.
 
