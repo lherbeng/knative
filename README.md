@@ -1,4 +1,6 @@
-Getting started in Knative
+Getting started - Knative Serverless
+
+Please also take a look at the [Serving Architecture](https://knative.dev/docs/serving/architecture/), which explains the Knative components and the general networking concept.
 
 Prerequisite:
 
@@ -7,3 +9,5 @@ In order to install Knative and deploy your application, you’ll need a Kuberne
 -Docker
 -kubectl, the Kubernetes command-line tool
 -kn CLI, the CLI for managing Knative application and configuration
+
+
